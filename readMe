@@ -1,0 +1,18 @@
+инициализация проекта (yes - optional)
+yarn init --yes
+
+добавляем express
+yarn add express
+
+запускаем сервер
+node index.js
+
+добавляем nodemon
+yarn add nodemon --dev
+
+yarn nodemon index.js
+
+to kill the process
+taskkill /im node.exe /f
+
+запуск приложения в режиме debug
